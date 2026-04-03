@@ -9,3 +9,6 @@ app.listen(3000,()=>{
     console.log("Server Started Successfully");
     
 })
+app.get("/", (req, res) => {
+  res.send("Backend is running ✅");
+});
