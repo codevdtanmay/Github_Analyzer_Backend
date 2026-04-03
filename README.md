@@ -1,7 +1,5 @@
 
-
-
-#⚙️GitHub Analyzer (Backend)
+# ⚙️ GitHub Analyzer Backend
 
 Backend API for GitHub Analyzer that fetches GitHub data and uses AI (Gemini) to generate insights and analysis.
 
